@@ -17,7 +17,7 @@ const eventsData = [
   {
     title: "Rastramshala Workshop",
     description: "A community outreach program to bring positive change.",
-    images: ["/3.1.JPG", "/3.2.JPG"],
+    images: ["/3.1.jpg", "/3.2.jpg"],
   },
 ];
 
