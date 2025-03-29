@@ -269,11 +269,11 @@ export default function Home() {
         <div className="members-container">
           {[
             { id: 1, name: "Naveen Kumar Sharma", position: "Convener", img: "/1.jpg" },
-            { id: 4, name: "Shekhar Suman", position: "Co-Convener", img: "/2.jpg" },
-            { id: 6, name: "Harsh Kumar Jha", position: "Co-Convener", img: "/3.jpg" },
-            { id: 5, name: "Manish Kumar", position: "Co-Convener", img: "/4.jpg" },
             { id: 2, name: "Gaurav Kumar", position: "Co-Convener", img: "/5.jpg" },
-            { id: 3, name: "Sonali Soni", position: "Co-Convener", img: "/6.jpg" }
+            { id: 3, name: "Sonali Soni", position: "Co-Convener", img: "/6.jpg" },
+            { id: 4, name: "Shekhar Suman", position: "Co-Convener", img: "/2.jpg" },
+             { id: 5, name: "Manish Kumar", position: "Co-Convener", img: "/4.jpg" },
+            { id: 6, name: "Harsh Kumar Jha", position: "Co-Convener", img: "/3.jpg" },  
           ].map((member) => (
             <div key={member.id} className="member-card">
               <div className="member-img-container">
