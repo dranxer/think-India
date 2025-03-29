@@ -244,7 +244,7 @@ export default function Home() {
           <div className="member-card head-member">
             <div className="member-img-container">
               <Image
-                src="/9.1.png" 
+                src="/9.1.jpg" 
                 alt="Dr. Bhavesh Kumar R Bhalja"
                 width={250}
                 height={250}
