@@ -100,7 +100,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Think India IIT Roorkee</title>
+        <title>Think India</title>
         <meta name="description" content="Empowering students to build a stronger India." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
